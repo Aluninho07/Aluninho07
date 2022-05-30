@@ -1,0 +1,5 @@
+- 👋 Oi, eu sou o @Aluninho07
+- 👀 Estou interessado em voleyball 
+- 🌱 Atualmente estou aprendendo a mexer com o javascritp e html
+- 💞️ Eu quero ajudar você com seus programas e solucionar seus bugs
+- 📫 Como me alcançar? simples, você não vai...
